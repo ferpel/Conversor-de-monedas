@@ -1,0 +1,2 @@
+Su clave API: 5712e879485df4ceb091cbc5
+Ejemplo de solicitud: https://v6.exchangerate-api.com/v6/5712e879485df4ceb091cbc5/latest/USD
